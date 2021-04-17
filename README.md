@@ -1,6 +1,7 @@
+# Getting Started with Create React App
+
 ![Header](https://free-images.com/or/1e27/noun_project_2472_svg.jpg)
 
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
