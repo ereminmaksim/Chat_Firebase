@@ -1,2 +1,2 @@
 # Chat_Firebase
-База данных (Firebase) + CRE (REACT)
+База данных (Firebase) + CRA (REACT)
